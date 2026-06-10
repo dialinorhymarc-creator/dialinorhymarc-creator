@@ -25,6 +25,6 @@ I am a Computer Engineering student specializing in Artificial Intelligence and 
 
 ### 📫 Connect with me:
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/rhy-marc-dialino-4b7827403/
 * 📧 **Email:** dialinorhymarc911@gmail.com
 * 🏙️ **Location:**  Valenzuela, Metro Manila, Philippines
