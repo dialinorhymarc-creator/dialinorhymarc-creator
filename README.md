@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rhymarc Dialino
 
-<!--
-**dialinorhymarc-creator/dialinorhymarc-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student specializing in Artificial Intelligence and Edge Computing, currently working as a **QA and AI Automation Intern**. I am deeply passionate about building intelligent systems, optimizing edge AI deployment, and implementing automated testing frameworks to ensure high-quality software delivery.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Tech Stack
+
+* **Automation & Quality Assurance:** Automated Testing, AI-Driven Quality Engineering, Test Scripting, Debugging
+* **AI & Edge Computing:** Deep Learning (CNN Architectures, DenseNet), Computer Vision, Edge AI Deployment (Raspberry Pi)
+* **Programming & Systems:** Python, C, C++, Linux/Unix, Git/GitHub
+* **Network Engineering:** IP Subnetting (FLSM/VLSM), VLAN Configuration, Dynamic Routing Protocols, Cisco Packet Tracer
+* **CAD & UI/UX Design:** AutoCAD (3D Modeling & Coordinate Systems), Web Design (Visual Identity & Layouts)
+
+---
+
+### 🚀 Featured Focus & Research
+
+* 🤖 **QA & AI Automation:** Designing and executing automated test configurations to optimize software reliability and streamline development workflows.
+* 🧠 **Edge AI & Healthcare:** Developing a thesis on **DenseNet Architecture for Skin Lesion Diagnosis and Geospatial Disease Mapping via Raspberry Pi**—focusing on lightweight, optimized deep learning models deployed directly on edge devices.
+* 🌐 **Automated Infrastructure:** Designing automated IP management systems for multi-service VLAN environments to simplify network setups.
+* 📦 **System Modeling:** Crafting accurate 3D architectural floor plans, component modeling, and custom hardware enclosures using AutoCAD.
+
+---
+
+### 📫 Connect with me:
+
+* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+* 📧 **Email:** dialinorhymarc911@gmail.com
+* 🏙️ **Location:**  Valenzuela, Metro Manila, Philippines
